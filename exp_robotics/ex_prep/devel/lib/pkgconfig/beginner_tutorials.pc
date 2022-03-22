@@ -1,0 +1,8 @@
+prefix=/home/chukwuemeka/exam_prep/devel
+
+Name: beginner_tutorials
+Description: Description of beginner_tutorials
+Version: 0.0.0
+Cflags: -I/home/chukwuemeka/exam_prep/devel/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

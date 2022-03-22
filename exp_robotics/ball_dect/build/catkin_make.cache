@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/chukwuemeka/ball_dect/devel -DCMAKE_INSTALL_PREFIX=/home/chukwuemeka/ball_dect/install -G Unix Makefiles

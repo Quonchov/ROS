@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/chukwuemeka/exam_prep/devel -DCMAKE_INSTALL_PREFIX=/home/chukwuemeka/exam_prep/install -G Unix Makefiles

@@ -1,0 +1,2 @@
+beginner_tutorials:ros_tutorials/ros_tutorials:ros_tutorials/roscpp_tutorials:ros_tutorials/rospy_tutorials:ros_tutorials/turtlesim:rosbot_description/src/rosbot_description:rosbot_description/src/rosbot_gazebo:rosbot_description/src/rosbot_navigation:tutorial_pkg
+-DCATKIN_DEVEL_PREFIX=/home/chukwuemeka/exp_rob_final_ws/devel -DCMAKE_INSTALL_PREFIX=/home/chukwuemeka/exp_rob_final_ws/install -G Unix Makefiles
