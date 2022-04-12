@@ -1,0 +1,2 @@
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/chukwuemeka/tutorials/devel -DCMAKE_INSTALL_PREFIX=/home/chukwuemeka/tutorials/install -G Unix Makefiles
