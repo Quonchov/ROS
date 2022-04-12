@@ -1,0 +1,14 @@
+step1:
+    Determine a name for the topic to publish
+
+step2:
+    Determine the type of messages that the topic will publish
+
+step3:
+    Determine the frequency of topic publication (how many messages per second)
+
+step4: 
+    Create a publisher object with parameters chosen
+
+step5:
+    Keep publishing the topic message at the selected frequency
